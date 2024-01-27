@@ -7,8 +7,10 @@
     ]
   },
   "devDependencies": {
-    "@redwoodjs/auth-dbauth-setup": "6.5.1",
-    "@redwoodjs/core": "6.5.1"
+    "@redwoodjs/auth-dbauth-setup": "7.0.0-canary.883",
+    "@redwoodjs/core": "7.0.0-canary.883",
+    "@redwoodjs/realtime": "7.0.0-canary.883",
+    "@redwoodjs/studio": "11"
   },
   "eslintConfig": {
     "extends": "@redwoodjs/eslint-config",

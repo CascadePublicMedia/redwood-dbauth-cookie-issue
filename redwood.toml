@@ -19,3 +19,6 @@
   open = true
 [notifications]
   versionUpdates = ["latest"]
+[studio.graphiql]
+  authImpersonation.authProvider = "dbAuth"
+  authImpersonation.userId = 1
